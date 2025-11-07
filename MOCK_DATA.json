@@ -1,0 +1,12002 @@
+[
+  {
+    "location": {
+      "x": 0,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 21,
+      "brake": 70,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 0,
+      "brake": 15,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 35,
+      "brake": 61,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 30,
+      "brake": 28,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 94,
+      "brake": 72,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 15,
+      "brake": 1,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 43,
+      "brake": 66,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 98,
+      "brake": 2,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 32,
+      "brake": 96,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 76,
+      "brake": 42,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 56,
+      "brake": 41,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 76,
+      "brake": 88,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 35,
+      "brake": 22,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 20,
+      "brake": 80,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 10,
+      "brake": 54,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 88,
+      "brake": 90,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 62,
+      "brake": 83,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 0,
+      "brake": 12,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 94,
+      "brake": 49,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 59,
+      "brake": 67,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 87,
+      "brake": 9,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 69,
+      "brake": 33,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 92,
+      "brake": 19,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 60,
+      "brake": 42,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 65,
+      "brake": 53,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 16,
+      "brake": 90,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 36,
+      "brake": 1,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 27,
+      "brake": 2,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 43,
+      "brake": 45,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 80,
+      "brake": 2,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 27,
+      "brake": 63,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 41,
+      "brake": 82,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 19,
+      "brake": 63,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 77,
+      "brake": 45,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 12,
+      "brake": 62,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 97,
+      "brake": 25,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 26,
+      "brake": 43,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 53,
+      "brake": 79,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 71,
+      "brake": 95,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 56,
+      "brake": 78,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 78,
+      "brake": 51,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 11,
+      "brake": 41,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 62,
+      "brake": 3,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 67,
+      "brake": 83,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 81,
+      "brake": 44,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 78,
+      "brake": 67,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 42,
+      "brake": 73,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 30,
+      "brake": 77,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 79,
+      "brake": 61,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 54,
+      "brake": 38,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 92,
+      "brake": 42,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 89,
+      "brake": 95,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 87,
+      "brake": 76,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 11,
+      "brake": 41,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 21,
+      "brake": 16,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 72,
+      "brake": 13,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 99,
+      "brake": 44,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 47,
+      "brake": 74,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 38,
+      "brake": 64,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 22,
+      "brake": 50,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 78,
+      "brake": 23,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 12,
+      "brake": 22,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 24,
+      "brake": 86,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 21,
+      "brake": 58,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 71,
+      "brake": 77,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 63,
+      "brake": 56,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 59,
+      "brake": 93,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 70,
+      "brake": 76,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 93,
+      "brake": 3,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 36,
+      "brake": 52,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 54,
+      "brake": 99,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 70,
+      "brake": 85,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 73,
+      "brake": 41,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 5,
+      "brake": 53,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 33,
+      "brake": 29,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 3,
+      "brake": 44,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 83,
+      "brake": 30,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 29,
+      "brake": 92,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 68,
+      "brake": 29,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 28,
+      "brake": 38,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 89,
+      "brake": 95,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 13,
+      "brake": 36,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 7,
+      "brake": 8,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 80,
+      "brake": 35,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 25,
+      "brake": 80,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 18,
+      "brake": 20,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 60,
+      "brake": 92,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 84,
+      "brake": 78,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 72,
+      "brake": 9,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 56,
+      "brake": 93,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 82,
+      "brake": 73,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 13,
+      "brake": 77,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 11,
+      "brake": 15,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 26,
+      "brake": 37,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 86,
+      "brake": 8,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 6,
+      "brake": 29,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 61,
+      "brake": 65,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 11,
+      "brake": 18,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 4,
+      "brake": 36,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 73,
+      "brake": 32,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 98,
+      "brake": 27,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 71,
+      "brake": 40,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 32,
+      "brake": 87,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 87,
+      "brake": 50,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 88,
+      "brake": 13,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 42,
+      "brake": 53,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 17,
+      "brake": 83,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 53,
+      "brake": 3,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 18,
+      "brake": 78,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 14,
+      "brake": 45,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 64,
+      "brake": 97,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 94,
+      "brake": 100,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 79,
+      "brake": 43,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 68,
+      "brake": 84,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 40,
+      "brake": 79,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 30,
+      "brake": 4,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 88,
+      "brake": 79,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 17,
+      "brake": 52,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 63,
+      "brake": 65,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 11,
+      "brake": 52,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 38,
+      "brake": 31,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 25,
+      "brake": 15,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 68,
+      "brake": 12,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 23,
+      "brake": 76,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 45,
+      "brake": 59,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 4,
+      "brake": 76,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 86,
+      "brake": 99,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 35,
+      "brake": 10,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 76,
+      "brake": 25,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 43,
+      "brake": 82,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 4,
+      "brake": 8,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 10,
+      "brake": 14,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 51,
+      "brake": 48,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 18,
+      "brake": 0,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 47,
+      "brake": 88,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 37,
+      "brake": 39,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 69,
+      "brake": 7,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 11,
+      "brake": 5,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 19,
+      "brake": 91,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 9,
+      "brake": 91,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 82,
+      "brake": 6,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 75,
+      "brake": 2,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 35,
+      "brake": 62,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 68,
+      "brake": 32,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 17,
+      "brake": 48,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 21,
+      "brake": 50,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 38,
+      "brake": 87,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 30,
+      "brake": 65,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 40,
+      "brake": 46,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 1,
+      "brake": 22,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 11,
+      "brake": 69,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 48,
+      "brake": 66,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 43,
+      "brake": 76,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 91,
+      "brake": 71,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 24,
+      "brake": 0,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 38,
+      "brake": 59,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 60,
+      "brake": 38,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 2,
+      "brake": 7,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 46,
+      "brake": 5,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 29,
+      "brake": 76,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 11,
+      "brake": 26,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 35,
+      "brake": 59,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 79,
+      "brake": 88,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 81,
+      "brake": 6,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 31,
+      "brake": 29,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 47,
+      "brake": 15,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 65,
+      "brake": 92,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 77,
+      "brake": 51,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 3,
+      "brake": 6,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 25,
+      "brake": 40,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 17,
+      "brake": 25,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 86,
+      "brake": 99,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 68,
+      "brake": 73,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 55,
+      "brake": 54,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 51,
+      "brake": 8,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 32,
+      "brake": 98,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 100,
+      "brake": 61,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 96,
+      "brake": 19,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 19,
+      "brake": 38,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 86,
+      "brake": 17,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 15,
+      "brake": 82,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 64,
+      "brake": 55,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 88,
+      "brake": 63,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 3,
+      "brake": 47,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 47,
+      "brake": 47,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 21,
+      "brake": 33,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 92,
+      "brake": 11,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 86,
+      "brake": 43,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 99,
+      "brake": 24,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 71,
+      "brake": 24,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 82,
+      "brake": 52,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 82,
+      "brake": 75,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 58,
+      "brake": 74,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 88,
+      "brake": 100,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 61,
+      "brake": 40,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 90,
+      "brake": 7,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 85,
+      "brake": 43,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 75,
+      "brake": 67,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 39,
+      "brake": 55,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 71,
+      "brake": 6,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 93,
+      "brake": 88,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 77,
+      "brake": 55,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 68,
+      "brake": 24,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 31,
+      "brake": 44,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 25,
+      "brake": 41,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 42,
+      "brake": 43,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 56,
+      "brake": 40,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 7,
+      "brake": 12,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 23,
+      "brake": 17,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 69,
+      "brake": 47,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 64,
+      "brake": 76,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 5,
+      "brake": 30,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 21,
+      "brake": 32,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 81,
+      "brake": 4,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 85,
+      "brake": 41,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 0,
+      "brake": 7,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 28,
+      "brake": 29,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 85,
+      "brake": 95,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 47,
+      "brake": 2,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 60,
+      "brake": 94,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 34,
+      "brake": 94,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 16,
+      "brake": 78,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 44,
+      "brake": 35,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 61,
+      "brake": 94,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 0,
+      "brake": 82,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 38,
+      "brake": 12,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 4,
+      "brake": 5,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 83,
+      "brake": 51,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 64,
+      "brake": 68,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 68,
+      "brake": 87,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 69,
+      "brake": 91,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 27,
+      "brake": 66,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 13,
+      "brake": 39,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 18,
+      "brake": 70,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 66,
+      "brake": 50,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 50,
+      "brake": 44,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 36,
+      "brake": 89,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 43,
+      "brake": 23,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 26,
+      "brake": 61,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 58,
+      "brake": 95,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 39,
+      "brake": 90,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 79,
+      "brake": 41,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 54,
+      "brake": 99,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 26,
+      "brake": 24,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 26,
+      "brake": 97,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 17,
+      "brake": 55,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 35,
+      "brake": 20,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 59,
+      "brake": 82,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 41,
+      "brake": 90,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 36,
+      "brake": 72,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 13,
+      "brake": 36,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 43,
+      "brake": 2,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 76,
+      "brake": 64,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 12,
+      "brake": 73,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 30,
+      "brake": 55,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 22,
+      "brake": 52,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 83,
+      "brake": 39,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 9,
+      "brake": 45,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 71,
+      "brake": 94,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 48,
+      "brake": 64,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 31,
+      "brake": 92,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 59,
+      "brake": 92,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 62,
+      "brake": 86,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 60,
+      "brake": 1,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 85,
+      "brake": 76,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 12,
+      "brake": 58,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 56,
+      "brake": 51,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 69,
+      "brake": 16,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 61,
+      "brake": 58,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 38,
+      "brake": 86,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 18,
+      "brake": 97,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 16,
+      "brake": 53,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 21,
+      "brake": 42,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 22,
+      "brake": 31,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 67,
+      "brake": 100,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 21,
+      "brake": 20,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 3,
+      "brake": 59,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 73,
+      "brake": 23,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 22,
+      "brake": 75,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 43,
+      "brake": 93,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 17,
+      "brake": 16,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 66,
+      "brake": 1,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 20,
+      "brake": 70,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 89,
+      "brake": 53,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 71,
+      "brake": 31,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 61,
+      "brake": 17,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 33,
+      "brake": 19,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 9,
+      "brake": 25,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 60,
+      "brake": 20,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 15,
+      "brake": 41,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 43,
+      "brake": 38,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 41,
+      "brake": 45,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 70,
+      "brake": 37,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 23,
+      "brake": 98,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 32,
+      "brake": 6,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 83,
+      "brake": 67,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 0,
+      "brake": 29,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 16,
+      "brake": 34,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 38,
+      "brake": 78,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 10,
+      "brake": 74,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 96,
+      "brake": 91,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 17,
+      "brake": 14,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 62,
+      "brake": 30,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 22,
+      "brake": 65,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 57,
+      "brake": 32,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 80,
+      "brake": 92,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 11,
+      "brake": 10,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 54,
+      "brake": 90,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 38,
+      "brake": 99,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 76,
+      "brake": 85,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 58,
+      "brake": 87,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 63,
+      "brake": 15,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 58,
+      "brake": 88,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 34,
+      "brake": 71,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 4,
+      "brake": 91,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 11,
+      "brake": 86,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 100,
+      "brake": 70,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 6,
+      "brake": 87,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 72,
+      "brake": 9,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 19,
+      "brake": 53,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 30,
+      "brake": 50,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 35,
+      "brake": 80,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 93,
+      "brake": 53,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 69,
+      "brake": 50,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 16,
+      "brake": 50,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 70,
+      "brake": 49,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 44,
+      "brake": 58,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 59,
+      "brake": 60,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 5,
+      "brake": 49,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 95,
+      "brake": 77,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 100,
+      "brake": 22,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 30,
+      "brake": 20,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 24,
+      "brake": 73,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 24,
+      "brake": 74,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 56,
+      "brake": 82,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 29,
+      "brake": 0,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 35,
+      "brake": 32,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 96,
+      "brake": 67,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 60,
+      "brake": 12,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 21,
+      "brake": 98,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 80,
+      "brake": 62,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 62,
+      "brake": 15,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 62,
+      "brake": 12,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 86,
+      "brake": 17,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 71,
+      "brake": 24,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 87,
+      "brake": 100,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 97,
+      "brake": 35,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 97,
+      "brake": 79,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 44,
+      "brake": 12,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 71,
+      "brake": 84,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 56,
+      "brake": 58,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 10,
+      "brake": 75,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 83,
+      "brake": 32,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 92,
+      "brake": 59,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 13,
+      "brake": 91,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 9,
+      "brake": 8,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 6,
+      "brake": 34,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 93,
+      "brake": 3,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 79,
+      "brake": 95,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 77,
+      "brake": 81,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 98,
+      "brake": 44,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 25,
+      "brake": 50,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 73,
+      "brake": 8,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 29,
+      "brake": 26,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 15,
+      "brake": 7,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 45,
+      "brake": 2,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 88,
+      "brake": 50,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 40,
+      "brake": 80,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 84,
+      "brake": 47,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 75,
+      "brake": 81,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 58,
+      "brake": 51,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 75,
+      "brake": 83,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 79,
+      "brake": 86,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 83,
+      "brake": 93,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 88,
+      "brake": 55,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 36,
+      "brake": 4,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 36,
+      "brake": 14,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 56,
+      "brake": 84,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 18,
+      "brake": 2,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 3,
+      "brake": 89,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 66,
+      "brake": 62,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 16,
+      "brake": 0,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 76,
+      "brake": 19,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 59,
+      "brake": 38,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 24,
+      "brake": 53,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 64,
+      "brake": 25,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 100,
+      "brake": 96,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 40,
+      "brake": 45,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 0,
+      "brake": 85,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 13,
+      "brake": 2,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 64,
+      "brake": 0,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 71,
+      "brake": 36,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 52,
+      "brake": 25,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 77,
+      "brake": 53,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 12,
+      "brake": 98,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 31,
+      "brake": 95,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 41,
+      "brake": 48,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 87,
+      "brake": 19,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 49,
+      "brake": 66,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 27,
+      "brake": 15,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 100,
+      "brake": 28,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 54,
+      "brake": 76,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 26,
+      "brake": 6,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 95,
+      "brake": 35,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 16,
+      "brake": 20,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 21,
+      "brake": 15,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 55,
+      "brake": 47,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 62,
+      "brake": 98,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 13,
+      "brake": 13,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 100,
+      "brake": 59,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 6,
+      "brake": 76,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 33,
+      "brake": 33,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 57,
+      "brake": 7,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 48,
+      "brake": 34,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 57,
+      "brake": 35,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 25,
+      "brake": 8,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 68,
+      "brake": 79,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 18,
+      "brake": 39,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 82,
+      "brake": 18,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 70,
+      "brake": 59,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 33,
+      "brake": 63,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 85,
+      "brake": 9,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 24,
+      "brake": 57,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 27,
+      "brake": 97,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 57,
+      "brake": 40,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 20,
+      "brake": 20,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 38,
+      "brake": 59,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 73,
+      "brake": 80,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 5,
+      "brake": 47,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 20,
+      "brake": 79,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 45,
+      "brake": 22,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 55,
+      "brake": 71,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 31,
+      "brake": 21,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 55,
+      "brake": 38,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 9,
+      "brake": 4,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 64,
+      "brake": 83,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 88,
+      "brake": 72,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 73,
+      "brake": 54,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 37,
+      "brake": 12,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 13,
+      "brake": 36,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 97,
+      "brake": 36,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 46,
+      "brake": 95,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 65,
+      "brake": 67,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 16,
+      "brake": 1,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 3,
+      "brake": 67,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 39,
+      "brake": 24,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 56,
+      "brake": 67,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 32,
+      "brake": 100,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 26,
+      "brake": 35,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 56,
+      "brake": 62,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 86,
+      "brake": 66,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 58,
+      "brake": 65,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 68,
+      "brake": 77,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 30,
+      "brake": 0,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 59,
+      "brake": 26,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 64,
+      "brake": 51,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 39,
+      "brake": 92,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 51,
+      "brake": 79,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 70,
+      "brake": 97,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 46,
+      "brake": 22,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 47,
+      "brake": 7,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 46,
+      "brake": 13,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 48,
+      "brake": 90,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 12,
+      "brake": 69,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 78,
+      "brake": 16,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 36,
+      "brake": 29,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 38,
+      "brake": 40,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 94,
+      "brake": 37,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 83,
+      "brake": 78,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 20,
+      "brake": 78,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 27,
+      "brake": 70,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 25,
+      "brake": 60,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 70,
+      "brake": 100,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 61,
+      "brake": 54,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 9,
+      "brake": 6,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 12,
+      "brake": 74,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 14,
+      "brake": 93,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 31,
+      "brake": 76,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 21,
+      "brake": 75,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 55,
+      "brake": 22,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 38,
+      "brake": 43,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 44,
+      "brake": 38,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 9,
+      "brake": 79,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 12,
+      "brake": 7,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 26,
+      "brake": 7,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 91,
+      "brake": 3,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 64,
+      "brake": 45,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 97,
+      "brake": 69,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 23,
+      "brake": 65,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 44,
+      "brake": 79,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 18,
+      "brake": 9,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 14,
+      "brake": 62,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 44,
+      "brake": 24,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 65,
+      "brake": 53,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 61,
+      "brake": 38,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 19,
+      "brake": 53,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 86,
+      "brake": 10,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 65,
+      "brake": 59,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 88,
+      "brake": 81,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 38,
+      "brake": 92,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 88,
+      "brake": 81,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 37,
+      "brake": 36,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 65,
+      "brake": 68,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 46,
+      "brake": 37,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 35,
+      "brake": 56,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 95,
+      "brake": 12,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 97,
+      "brake": 86,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 53,
+      "brake": 68,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 41,
+      "brake": 95,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 82,
+      "brake": 16,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 68,
+      "brake": 1,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 60,
+      "brake": 77,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 16,
+      "brake": 89,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 94,
+      "brake": 85,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 94,
+      "brake": 3,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 3,
+      "brake": 63,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 5,
+      "brake": 32,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 94,
+      "brake": 44,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 47,
+      "brake": 71,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 11,
+      "brake": 41,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 87,
+      "brake": 63,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 5,
+      "brake": 90,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 75,
+      "brake": 17,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 86,
+      "brake": 16,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 54,
+      "brake": 37,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 93,
+      "brake": 76,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 52,
+      "brake": 70,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 91,
+      "brake": 54,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 7,
+      "brake": 55,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 5,
+      "brake": 87,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 46,
+      "brake": 0,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 76,
+      "brake": 14,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 3,
+      "brake": 30,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 23,
+      "brake": 17,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 50,
+      "brake": 2,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 65,
+      "brake": 77,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 52,
+      "brake": 82,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 66,
+      "brake": 27,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 75,
+      "brake": 23,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 99,
+      "brake": 86,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 62,
+      "brake": 3,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 16,
+      "brake": 31,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 88,
+      "brake": 63,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 50,
+      "brake": 25,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 29,
+      "brake": 95,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 43,
+      "brake": 12,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 32,
+      "brake": 75,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 49,
+      "brake": 31,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 43,
+      "brake": 44,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 53,
+      "brake": 29,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 15,
+      "brake": 94,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 77,
+      "brake": 31,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 63,
+      "brake": 93,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 5,
+      "brake": 29,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 12,
+      "brake": 52,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 3,
+      "brake": 65,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 70,
+      "brake": 82,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 26,
+      "brake": 92,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 88,
+      "brake": 17,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 91,
+      "brake": 52,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 81,
+      "brake": 20,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 45,
+      "brake": 6,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 32,
+      "brake": 13,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 29,
+      "brake": 70,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 25,
+      "brake": 18,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 66,
+      "brake": 99,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 11,
+      "brake": 60,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 83,
+      "brake": 66,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 29,
+      "brake": 56,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 72,
+      "brake": 38,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 53,
+      "brake": 62,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 21,
+      "brake": 16,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 57,
+      "brake": 18,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 59,
+      "brake": 98,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 83,
+      "brake": 18,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 78,
+      "brake": 80,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 64,
+      "brake": 13,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 79,
+      "brake": 19,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 60,
+      "brake": 21,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 43,
+      "brake": 97,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 29,
+      "brake": 79,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 45,
+      "brake": 79,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 27,
+      "brake": 70,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 65,
+      "brake": 85,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 57,
+      "brake": 56,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 71,
+      "brake": 66,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 96,
+      "brake": 3,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 37,
+      "brake": 2,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 82,
+      "brake": 3,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 80,
+      "brake": 24,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 77,
+      "brake": 79,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 94,
+      "brake": 19,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 75,
+      "brake": 76,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 7,
+      "brake": 27,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 88,
+      "brake": 15,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 77,
+      "brake": 63,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 61,
+      "brake": 37,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 36,
+      "brake": 65,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 33,
+      "brake": 37,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 37,
+      "brake": 71,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 84,
+      "brake": 75,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 8,
+      "brake": 12,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 31,
+      "brake": 58,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 78,
+      "brake": 35,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 26,
+      "brake": 4,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 1,
+      "brake": 32,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 44,
+      "brake": 95,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 12,
+      "brake": 0,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 45,
+      "brake": 6,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 100,
+      "brake": 72,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 15,
+      "brake": 80,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 68,
+      "brake": 40,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 53,
+      "brake": 46,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 87,
+      "brake": 45,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 43,
+      "brake": 93,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 35,
+      "brake": 63,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 26,
+      "brake": 35,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 15,
+      "brake": 32,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 21,
+      "brake": 72,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 87,
+      "brake": 70,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 22,
+      "brake": 95,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 90,
+      "brake": 10,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 63,
+      "brake": 60,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 9,
+      "brake": 34,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 9,
+      "brake": 99,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 37,
+      "brake": 46,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 0,
+      "brake": 1,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 49,
+      "brake": 85,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 66,
+      "brake": 41,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 30,
+      "brake": 26,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 97,
+      "brake": 59,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 4,
+      "brake": 9,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 73,
+      "brake": 62,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 67,
+      "brake": 15,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 86,
+      "brake": 12,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 83,
+      "brake": 92,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 71,
+      "brake": 55,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 27,
+      "brake": 89,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 8,
+      "brake": 43,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 61,
+      "brake": 37,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 84,
+      "brake": 41,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 95,
+      "brake": 28,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 89,
+      "brake": 55,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 82,
+      "brake": 79,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 55,
+      "brake": 9,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 29,
+      "brake": 17,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 47,
+      "brake": 68,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 1,
+      "brake": 68,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 79,
+      "brake": 19,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 49,
+      "brake": 21,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 45,
+      "brake": 87,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 52,
+      "brake": 41,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 23,
+      "brake": 72,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 78,
+      "brake": 65,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 24,
+      "brake": 30,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 67,
+      "brake": 56,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 41,
+      "brake": 22,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 4,
+      "brake": 72,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 70,
+      "brake": 19,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 56,
+      "brake": 86,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 75,
+      "brake": 3,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 52,
+      "brake": 91,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 70,
+      "brake": 79,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 18,
+      "brake": 99,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 91,
+      "brake": 97,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 6,
+      "brake": 93,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 97,
+      "brake": 100,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 57,
+      "brake": 25,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 92,
+      "brake": 24,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 37,
+      "brake": 53,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 92,
+      "brake": 3,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 0,
+      "brake": 29,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 34,
+      "brake": 39,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 44,
+      "brake": 48,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 9,
+      "brake": 52,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 1,
+      "brake": 10,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 79,
+      "brake": 88,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 77,
+      "brake": 39,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 18,
+      "brake": 4,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 27,
+      "brake": 32,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 19,
+      "brake": 35,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 60,
+      "brake": 85,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 24,
+      "brake": 35,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 72,
+      "brake": 53,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 43,
+      "brake": 75,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 91,
+      "brake": 22,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 96,
+      "brake": 96,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 2,
+      "brake": 16,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 85,
+      "brake": 68,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 62,
+      "brake": 30,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 71,
+      "brake": 24,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 42,
+      "brake": 85,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 36,
+      "brake": 23,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 54,
+      "brake": 33,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 6,
+      "brake": 65,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 97,
+      "brake": 85,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 21,
+      "brake": 94,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 68,
+      "brake": 14,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 93,
+      "brake": 99,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 89,
+      "brake": 68,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 70,
+      "brake": 26,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 11,
+      "brake": 84,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 82,
+      "brake": 23,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 13,
+      "brake": 50,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 38,
+      "brake": 80,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 76,
+      "brake": 57,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 5,
+      "brake": 85,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 10,
+      "brake": 75,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 1,
+      "brake": 71,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 16,
+      "brake": 8,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 42,
+      "brake": 6,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 24,
+      "brake": 81,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 89,
+      "brake": 89,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 72,
+      "brake": 43,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 63,
+      "brake": 38,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 9,
+      "brake": 61,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 62,
+      "brake": 95,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 23,
+      "brake": 75,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 39,
+      "brake": 68,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 67,
+      "brake": 16,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 46,
+      "brake": 50,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 45,
+      "brake": 77,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 100,
+      "brake": 8,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 39,
+      "brake": 0,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 48,
+      "brake": 19,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 16,
+      "brake": 25,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 86,
+      "brake": 85,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 52,
+      "brake": 63,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 26,
+      "brake": 23,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 35,
+      "brake": 71,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 54,
+      "brake": 47,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 52,
+      "brake": 83,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 20,
+      "brake": 12,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 52,
+      "brake": 58,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 34,
+      "brake": 63,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 84,
+      "brake": 40,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 85,
+      "brake": 25,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 92,
+      "brake": 58,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 93,
+      "brake": 84,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 43,
+      "brake": 55,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 93,
+      "brake": 18,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 62,
+      "brake": 0,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 76,
+      "brake": 55,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 90,
+      "brake": 51,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 12,
+      "brake": 100,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 90,
+      "brake": 13,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 68,
+      "brake": 4,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 91,
+      "brake": 55,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 74,
+      "brake": 4,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 58,
+      "brake": 11,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 71,
+      "brake": 82,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 43,
+      "brake": 80,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 30,
+      "brake": 39,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 4,
+      "brake": 33,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 59,
+      "brake": 78,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 93,
+      "brake": 69,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 32,
+      "brake": 90,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 85,
+      "brake": 88,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 12,
+      "brake": 40,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 29,
+      "brake": 6,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 83,
+      "brake": 26,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 99,
+      "brake": 16,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 28,
+      "brake": 100,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 49,
+      "brake": 95,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 92,
+      "brake": 86,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 83,
+      "brake": 91,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 44,
+      "brake": 66,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 12,
+      "brake": 76,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 5,
+      "brake": 26,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 10,
+      "brake": 51,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 98,
+      "brake": 77,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 91,
+      "brake": 43,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 1,
+      "brake": 25,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 93,
+      "brake": 93,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 31,
+      "brake": 16,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 40,
+      "brake": 10,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 21,
+      "brake": 57,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 85,
+      "brake": 15,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 6,
+      "brake": 29,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 1,
+      "brake": 68,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 92,
+      "brake": 19,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 70,
+      "brake": 15,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 66,
+      "brake": 70,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 0,
+      "brake": 25,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 60,
+      "brake": 19,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 99,
+      "brake": 95,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 12,
+      "brake": 69,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 7,
+      "brake": 34,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 23,
+      "brake": 12,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 6,
+      "brake": 96,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 83,
+      "brake": 98,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 8,
+      "brake": 29,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 45,
+      "brake": 22,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 4,
+      "brake": 56,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 57,
+      "brake": 90,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 3,
+      "brake": 45,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 85,
+      "brake": 46,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 94,
+      "brake": 15,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 44,
+      "brake": 100,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 29,
+      "brake": 8,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 97,
+      "brake": 36,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 39,
+      "brake": 9,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 85,
+      "brake": 72,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 44,
+      "brake": 61,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 32,
+      "brake": 63,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 86,
+      "brake": 38,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 47,
+      "brake": 28,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 65,
+      "brake": 73,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 63,
+      "brake": 14,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 51,
+      "brake": 65,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 38,
+      "brake": 95,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 95,
+      "brake": 22,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 18,
+      "brake": 80,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 15,
+      "brake": 74,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 41,
+      "brake": 26,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 75,
+      "brake": 2,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 56,
+      "brake": 2,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 20,
+      "brake": 73,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 92,
+      "brake": 41,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 60,
+      "brake": 65,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 42,
+      "brake": 29,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 15,
+      "brake": 15,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 93,
+      "brake": 75,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 38,
+      "brake": 14,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 79,
+      "brake": 2,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 36,
+      "brake": 43,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 12,
+      "brake": 25,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 36,
+      "brake": 12,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 80,
+      "brake": 73,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 93,
+      "brake": 57,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 48,
+      "brake": 80,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 10,
+      "brake": 90,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 2,
+      "brake": 93,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 65,
+      "brake": 31,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 16,
+      "brake": 6,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 59,
+      "brake": 44,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 80,
+      "brake": 64,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 21,
+      "brake": 75,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 18,
+      "brake": 9,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 49,
+      "brake": 7,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 58,
+      "brake": 92,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 7,
+      "brake": 19,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 62,
+      "brake": 73,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 78,
+      "brake": 4,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 94,
+      "brake": 31,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 6,
+      "brake": 35,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 30,
+      "brake": 54,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 62,
+      "brake": 17,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 2,
+      "brake": 36,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 54,
+      "brake": 2,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 14,
+      "brake": 47,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 37,
+      "brake": 45,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 91,
+      "brake": 34,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 72,
+      "brake": 19,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 8,
+      "brake": 39,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 9,
+      "brake": 89,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 85,
+      "brake": 72,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 11,
+      "brake": 75,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 13,
+      "brake": 98,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 99,
+      "brake": 19,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 11,
+      "brake": 46,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 47,
+      "brake": 0,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 80,
+      "brake": 40,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 47,
+      "brake": 3,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 56,
+      "brake": 96,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 1,
+      "brake": 40,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 4,
+      "brake": 1,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 43,
+      "brake": 48,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 79,
+      "brake": 70,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 2,
+      "brake": 6,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 73,
+      "brake": 82,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 79,
+      "brake": 45,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 85,
+      "brake": 89,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 52,
+      "brake": 76,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 58,
+      "brake": 74,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 71,
+      "brake": 57,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 32,
+      "brake": 41,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 38,
+      "brake": 66,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 74,
+      "brake": 51,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 4,
+      "brake": 71,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 99,
+      "brake": 18,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 17,
+      "brake": 60,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 71,
+      "brake": 89,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 59,
+      "brake": 97,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 50,
+      "brake": 82,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 5,
+      "brake": 30,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 84,
+      "brake": 47,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 0,
+      "brake": 74,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 40,
+      "brake": 86,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 47,
+      "brake": 89,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 24,
+      "brake": 62,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 0,
+      "brake": 28,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 16,
+      "brake": 57,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 24,
+      "brake": 24,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 49,
+      "brake": 5,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 42,
+      "brake": 95,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 55,
+      "brake": 79,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 18,
+      "brake": 34,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 33,
+      "brake": 5,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 40,
+      "brake": 96,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 29,
+      "brake": 95,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 16,
+      "brake": 22,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 12,
+      "brake": 77,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 98,
+      "brake": 9,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 35,
+      "brake": 51,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 1,
+      "brake": 94,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 21,
+      "brake": 25,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 46,
+      "brake": 53,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 72,
+      "brake": 91,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 46,
+      "brake": 99,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 41,
+      "brake": 87,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 29,
+      "brake": 43,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 47,
+      "brake": 86,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 33,
+      "brake": 62,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 38,
+      "brake": 64,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 77,
+      "brake": 59,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 38,
+      "brake": 95,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 41,
+      "brake": 18,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 35,
+      "brake": 87,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 58,
+      "brake": 42,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 54,
+      "brake": 35,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 55,
+      "brake": 72,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 19,
+      "brake": 60,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 11,
+      "brake": 31,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 82,
+      "brake": 38,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 24,
+      "brake": 32,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 18,
+      "brake": 51,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 61,
+      "brake": 33,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 35,
+      "brake": 79,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 9,
+      "brake": 40,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 94,
+      "brake": 38,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 11,
+      "brake": 71,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 42,
+      "brake": 69,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 59,
+      "brake": 86,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 22,
+      "brake": 90,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 94,
+      "brake": 90,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 49,
+      "brake": 97,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 98,
+      "brake": 17,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 22,
+      "brake": 16,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 31,
+      "brake": 64,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 58,
+      "brake": 30,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 95,
+      "brake": 62,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 17,
+      "brake": 85,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 78,
+      "brake": 4,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 49,
+      "brake": 74,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 39,
+      "brake": 100,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 69,
+      "brake": 35,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 25,
+      "brake": 23,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 52,
+      "brake": 72,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 79,
+      "brake": 61,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 79,
+      "brake": 55,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 8,
+      "brake": 13,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 87,
+      "brake": 72,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 54,
+      "brake": 23,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 79,
+      "brake": 80,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 83,
+      "brake": 92,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 12,
+      "brake": 18,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 60,
+      "brake": 96,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 56,
+      "brake": 45,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 33,
+      "brake": 61,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 32,
+      "brake": 89,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 36,
+      "brake": 55,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 70,
+      "brake": 22,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 26,
+      "brake": 17,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 32,
+      "brake": 40,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 90,
+      "brake": 53,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 47,
+      "brake": 54,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 16,
+      "brake": 39,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 74,
+      "brake": 31,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 1,
+      "gas": 18,
+      "brake": 67,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 83,
+      "brake": 83,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 39,
+      "brake": 78,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 75,
+      "brake": 89,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 80,
+      "brake": 23,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 77,
+      "brake": 28,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 34,
+      "brake": 84,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 63,
+      "brake": 75,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 13,
+      "brake": 77,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 2,
+      "gas": 48,
+      "brake": 58,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 6,
+      "brake": 13,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 7,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 8,
+      "gas": 45,
+      "brake": 54,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 1,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 79,
+      "brake": 27,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 30,
+      "brake": 35,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 0
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 67,
+      "brake": 65,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 17,
+      "brake": 19,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 7
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 10,
+      "brake": 80,
+      "gear": 0
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 4,
+      "brake": 11,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 6,
+      "y": 2
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 70,
+      "brake": 36,
+      "gear": 3
+    }
+  },
+  {
+    "location": {
+      "x": 2,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 68,
+      "brake": 65,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 0,
+      "y": 5
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 20,
+      "brake": 71,
+      "gear": 4
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 6
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 56,
+      "brake": 49,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 1
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 54,
+      "brake": 1,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 7,
+      "gas": 77,
+      "brake": 54,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 5,
+      "y": 9
+    },
+    "car": {
+      "steering_wheel_rotation": 9,
+      "gas": 44,
+      "brake": 68,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 5,
+      "gas": 90,
+      "brake": 98,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 8,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 3,
+      "gas": 82,
+      "brake": 100,
+      "gear": 1
+    }
+  },
+  {
+    "location": {
+      "x": 9,
+      "y": 4
+    },
+    "car": {
+      "steering_wheel_rotation": 10,
+      "gas": 81,
+      "brake": 77,
+      "gear": 2
+    }
+  },
+  {
+    "location": {
+      "x": 10,
+      "y": 10
+    },
+    "car": {
+      "steering_wheel_rotation": 6,
+      "gas": 15,
+      "brake": 91,
+      "gear": 5
+    }
+  },
+  {
+    "location": {
+      "x": 4,
+      "y": 8
+    },
+    "car": {
+      "steering_wheel_rotation": 4,
+      "gas": 11,
+      "brake": 96,
+      "gear": 6
+    }
+  },
+  {
+    "location": {
+      "x": 3,
+      "y": 3
+    },
+    "car": {
+      "steering_wheel_rotation": 0,
+      "gas": 80,
+      "brake": 90,
+      "gear": 6
+    }
+  }
+]
