@@ -5,7 +5,7 @@ import (
 
 	"github.com/pmoieni/project-racer-server/internal/lib"
 	"github.com/pmoieni/project-racer-server/internal/net"
-	"github.com/pmoieni/project-racer-server/internal/net/websocket"
+	"github.com/pmoieni/project-racer-server/internal/net/websocket3"
 )
 
 var _ net.Service = (*TelemetryService)(nil)
@@ -13,14 +13,14 @@ var _ net.Service = (*TelemetryService)(nil)
 type TelemetryService struct {
 	*http.ServeMux
 
-	hub *websocket.Hub
+	hub *websocket3.Hub
 	log *lib.Logger
 }
 
 func New() (*TelemetryService, error) {
 	s := &TelemetryService{
 		ServeMux: http.NewServeMux(),
-		hub:      websocket.NewHub(100),
+		hub:      websocket3.NewHub(),
 		log:      lib.NewLogger("telemetry"),
 	}
 	s.setupControllers()
@@ -36,7 +36,7 @@ func (s *TelemetryService) setupControllers() {
 	s.HandleFunc("GET /ws", handleConn(s.hub))
 }
 
-func handleConn(hub *websocket.Hub) http.HandlerFunc {
+func handleConn(hub *websocket3.Hub) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
 		// TODO: do some checks here
 		hub.ServeHTTP(w, r)

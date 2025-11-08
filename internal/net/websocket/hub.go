@@ -1,128 +1,96 @@
 package websocket
 
 import (
+	"context"
 	"log"
 	"net/http"
-	"sync"
-	"time"
 
-	"github.com/gobwas/ws"
-	"github.com/gobwas/ws/wsutil"
-	"github.com/google/uuid"
-)
-
-const (
-	pingPeriod = (pongWait * 9) / 10
+	"github.com/coder/websocket"
+	"github.com/pmoieni/project-racer-server/internal/net/msg"
 )
 
 type Hub struct {
-	mx         *sync.Mutex
-	register   chan *Conn
-	unregister chan uuid.UUID
-	// should only allow messages with `ws.OpText` or `ws.OpBinary`
-	broadcast   chan *wsutil.Message
-	errc        chan error
-	connections map[uuid.UUID]*Conn
-	upgrader    *ws.HTTPUpgrader
-
-	// Capacity of the send channel.
-	// If capacity is 0, the send channel is unbuffered.
-	Capacity uint
+	broadcast   chan *msg.Envelope
+	tasks       chan func() error
+	subscribers map[*subscriber]struct{}
 }
 
-func NewHub(cap uint) *Hub {
-	hub := &Hub{
-		mx:          &sync.Mutex{},
-		register:    make(chan *Conn),
-		unregister:  make(chan uuid.UUID),
-		broadcast:   make(chan *wsutil.Message),
-		errc:        make(chan error),
-		connections: make(map[uuid.UUID]*Conn),
-		upgrader:    &ws.HTTPUpgrader{},
-		Capacity:    cap,
+func NewHub() *Hub {
+	h := &Hub{
+		broadcast:   make(chan *msg.Envelope),
+		tasks:       make(chan func() error),
+		subscribers: make(map[*subscriber]struct{}),
 	}
 
-	go hub.listen()
+	h.listen()
 
-	return hub
+	return h
 }
 
-// Len returns the number of connections.
-func (h *Hub) Len() int {
-	h.mx.Lock()
-	defer h.mx.Unlock()
-	return len(h.connections)
-}
-
-// listen handles client register, unregister, pinging and errors
 func (h *Hub) listen() {
-	ticker := time.NewTicker(pingPeriod)
-	defer func() {
-		ticker.Stop()
-	}()
-
 	for {
 		select {
-		case conn := <-h.register:
-			h.mx.Lock()
-			h.connections[conn.id] = conn
-			h.mx.Unlock()
-		case cid := <-h.unregister:
-			h.mx.Lock()
-			// close(conn.send)
-			delete(h.connections, cid)
-			h.mx.Unlock()
-		case err := <-h.errc:
-			log.Println(err)
-		case <-ticker.C:
-			h.broadcast <- &wsutil.Message{OpCode: ws.OpPing, Payload: nil}
+		case task := <-h.tasks:
+			if err := task(); err != nil {
+				log.Println(err)
+			}
+		case msg := <-h.broadcast:
+			for s := range h.subscribers {
+				s.send <- msg
+			}
 		}
 	}
 }
-
-/*
-func (h *Hub) broadcastMsg(msg *wsutil.Message) {
-	for conn := range h.connections {
-		select {
-		case conn.send <- msg:
-		default:
-			// From Gorilla WS
-			// https://github.com/gorilla/websocket/tree/master/examples/chat#hub
-			// If the client’s send buffer is full, then the hub assumes that the client is dead or stuck. In this case, the hub unregisters the client and closes the websocket
-			slog.Debug("conn.send channel buffer possible full\n")
-			slog.Debug("broadcast channel handler: default case:\nopCode: %d\npayload: %+v\n", msg.OpCode, msg.Payload)
-			h.mx.Lock()
-			close(conn.send)
-			delete(h.connections, conn)
-			h.mx.Unlock()
-		}
-	}
-}
-*/
 
 func (h *Hub) ServeHTTP(w http.ResponseWriter, r *http.Request) {
-	// TODO check capacity
-	if h.Capacity > 0 && h.Len() >= int(h.Capacity) {
-		http.Error(w, "too many connections", http.StatusServiceUnavailable)
-		return
-	}
-
-	nc, _, _, err := h.upgrader.Upgrade(r, w)
+	c, err := websocket.Accept(w, r, &websocket.AcceptOptions{InsecureSkipVerify: true})
 	if err != nil {
 		// TODO log that there was an error
 		http.Error(w, err.Error(), http.StatusBadRequest)
 		return
 	}
 
-	conn, err := newConn(nc)
-	if err != nil {
-		http.Error(w, "failed to establish connection", http.StatusInternalServerError)
-		return
+	sub := &subscriber{conn: c}
+
+	defer func() {
+		if err := h.deleteSubscriber(sub); err != nil {
+			http.Error(w, err.Error(), http.StatusBadRequest)
+			return
+		}
+	}()
+
+	if err := h.addSubscriber(r.Context(), sub); err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+	}
+}
+
+func (h *Hub) addSubscriber(ctx context.Context, s *subscriber) error {
+	h.tasks <- func() error {
+		h.subscribers[s] = struct{}{}
+		return nil
 	}
 
-	go conn.read(h.broadcast, h.unregister, h.errc)
-	go conn.write(h.broadcast, h.errc)
+	go s.write(ctx, h.tasks)
 
-	h.register <- conn
+	for {
+		msg, err := s.read(ctx)
+		if err != nil {
+			return err
+		}
 
+		h.broadcast <- msg
+	}
+}
+
+func (h *Hub) deleteSubscriber(s *subscriber) error {
+	if err := s.conn.Close(websocket.StatusNormalClosure, ""); err != nil {
+		return err
+	}
+
+	h.tasks <- func() error {
+		delete(h.subscribers, s)
+		return nil
+	}
+
+	return nil
 }
