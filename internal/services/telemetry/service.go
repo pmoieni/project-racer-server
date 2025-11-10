@@ -1,7 +1,6 @@
 package telemetry
 
 import (
-	"fmt"
 	"net/http"
 
 	"github.com/pmoieni/project-racer-server/internal/lib"
