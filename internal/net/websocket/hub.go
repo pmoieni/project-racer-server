@@ -22,7 +22,7 @@ func NewHub() *Hub {
 		subscribers: make(map[*subscriber]struct{}),
 	}
 
-	h.listen()
+	go h.listen()
 
 	return h
 }

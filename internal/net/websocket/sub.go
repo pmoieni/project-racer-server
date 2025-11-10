@@ -5,12 +5,10 @@ import (
 	"encoding/json"
 
 	"github.com/coder/websocket"
-	"github.com/google/uuid"
 	"github.com/pmoieni/project-racer-server/internal/net/msg"
 )
 
 type subscriber struct {
-	id   uuid.UUID
 	conn *websocket.Conn
 	send chan *msg.Envelope
 }
