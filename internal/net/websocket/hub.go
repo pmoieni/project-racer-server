@@ -22,8 +22,6 @@ func NewHub() *Hub {
 		subscribers: make(map[*subscriber]struct{}),
 	}
 
-	log.Println(len(h.subscribers))
-
 	go h.listen()
 
 	return h
