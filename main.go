@@ -8,15 +8,16 @@ import (
 )
 
 func main() {
-	telemtryService, err := telemetry.New()
+	telemetryService, err := telemetry.New()
 	if err != nil {
 		log.Fatal(err)
 	}
 
 	srv := net.NewServer(&net.ServerFlags{
-		Host: "localhost",
-		Port: 1234,
-	}, telemtryService)
+		Host:   "localhost",
+		Port:   1234,
+		Prefix: "v1",
+	}, telemetryService)
 
 	if err := srv.Run("", ""); err != nil {
 		log.Fatalf("Could not start the server: %v", err)

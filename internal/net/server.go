@@ -24,13 +24,14 @@ type Server struct {
 }
 
 type ServerFlags struct {
-	Host string
-	Port uint
+	Host   string
+	Port   uint
+	Prefix string
 }
 
 func NewServer(flags *ServerFlags, services ...Service) *Server {
 	mux := http.NewServeMux()
-	setupControllers(mux, services...)
+	setupControllers(mux, flags.Prefix, services...)
 
 	return &Server{
 		http: &http.Server{
@@ -91,10 +92,11 @@ func homeHandler(w http.ResponseWriter, r *http.Request) {
 	w.Write([]byte("project-racer"))
 }
 
-func setupControllers(mux *http.ServeMux, services ...Service) {
-	mux.HandleFunc("/", homeHandler)
+func setupControllers(mux *http.ServeMux, prefix string, services ...Service) {
+	base := "/" + prefix + "/"
+	mux.HandleFunc(base, homeHandler)
 	for _, service := range services {
-		path := "/" + service.MountPath()
+		path := base + service.MountPath()
 		mux.Handle(path+"/", http.StripPrefix(path, service))
 	}
 }

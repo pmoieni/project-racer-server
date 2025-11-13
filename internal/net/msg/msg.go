@@ -1,48 +1,76 @@
 package msg
 
 import (
-	"encoding/json"
-
-	"github.com/google/uuid"
+	"encoding/binary"
+	"errors"
 )
 
-type (
-	MsgType   int
-	NoteState int
-
-	Envelope struct {
-		// Message identifier
-		Typ MsgType `json:"type"`
-		// client identifier
-		// Actual message data.
-		Payload json.RawMessage `json:"payload"`
-	}
-
-	TextMsg struct {
-		DisplayName string `json:"displayName"`
-		Body        string `json:"body"`
-	}
-
-	ConnectMsg struct {
-		UserID   uuid.UUID `json:"userId"`
-		UserName string    `json:"userName"`
-	}
-)
+type Version uint8
+type MsgType uint8
 
 const (
-	TEXT MsgType = iota
-	CONNECT
+	versionMask = 0xFE
+
+	V1 Version = 0x1
+
+	msgTypeMask = 0xFE
+
+	TEXT MsgType = 0x1
 )
 
-func (e *Envelope) SetPayload(payload any) error {
-	p, err := json.Marshal(payload)
-	if err != nil {
+type Envelope struct {
+	Ver     Version
+	Typ     MsgType
+	Payload []byte
+}
+
+func (e *Envelope) MarshalBinary() ([]byte, error) {
+	header := make([]byte, 4)
+	header[0] = byte(e.Ver)
+	header[1] = byte(e.Typ)
+	binary.BigEndian.PutUint16(header[2:4], uint16(len(e.Payload)))
+
+	bs := []byte{}
+	bs = append(bs, header...)
+	bs = append(bs, e.Payload...)
+
+	if err := validate(bs); err != nil {
+		return nil, err
+	}
+
+	return bs, nil
+}
+
+func (e *Envelope) UnmarshalBinary(bs []byte) error {
+	if err := validate(bs); err != nil {
 		return err
 	}
-	e.Payload = p
+
+	header := bs[:4]
+
+	e.Ver = Version(header[0])
+	e.Typ = MsgType(header[1])
+	e.Payload = bs[4:]
+
 	return nil
 }
 
-func (e *Envelope) Unwrap(msg any) error {
-	return json.Unmarshal(e.Payload, msg)
+func validate(bs []byte) error {
+	if len(bs) < 4 {
+		return errors.New("missing header")
+	}
+
+	if len(bs[4:])&^0xFFFF != 0 {
+		return errors.New("payload too big")
+	}
+
+	if bs[0]&versionMask != 0 {
+		return errors.New("unsupported version")
+	}
+
+	if bs[1]&msgTypeMask != 0 {
+		return errors.New("unsupported type")
+	}
+
+	return nil
 }

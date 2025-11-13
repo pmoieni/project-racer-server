@@ -6,18 +6,17 @@ import (
 	"net/http"
 
 	"github.com/coder/websocket"
-	"github.com/pmoieni/project-racer-server/internal/net/msg"
 )
 
 type Hub struct {
-	broadcast   chan *msg.Envelope
+	broadcast   chan []byte
 	tasks       chan func() error
 	subscribers map[*subscriber]struct{}
 }
 
 func NewHub() *Hub {
 	h := &Hub{
-		broadcast:   make(chan *msg.Envelope),
+		broadcast:   make(chan []byte),
 		tasks:       make(chan func() error),
 		subscribers: make(map[*subscriber]struct{}),
 	}
@@ -54,13 +53,16 @@ func (h *Hub) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 	defer func() {
 		if err := h.deleteSubscriber(sub); err != nil {
-			http.Error(w, err.Error(), http.StatusBadRequest)
-			return
+			h.tasks <- func() error {
+				return err
+			}
 		}
 	}()
 
 	if err := h.addSubscriber(r.Context(), sub); err != nil {
-		http.Error(w, err.Error(), http.StatusBadRequest)
+		h.tasks <- func() error {
+			return err
+		}
 	}
 }
 

@@ -4,32 +4,31 @@ import (
 	"context"
 
 	"github.com/coder/websocket"
-	"github.com/pmoieni/project-racer-server/internal/net/msg"
 )
 
 type subscriber struct {
 	conn *websocket.Conn
-	send chan *msg.Envelope
+	send chan []byte
 }
 
 func newSubscriber(conn *websocket.Conn) *subscriber {
-	return &subscriber{conn: conn, send: make(chan *msg.Envelope)}
+	return &subscriber{conn: conn, send: make(chan []byte)}
 }
 
-func (s *subscriber) write(ctx context.Context, msg *msg.Envelope) error {
+func (s *subscriber) write(ctx context.Context, bs []byte) error {
 	// TODO: don't use JSON
-	if err := s.conn.Write(ctx, websocket.MessageBinary, msg.Payload); err != nil {
+	if err := s.conn.Write(ctx, websocket.MessageBinary, bs); err != nil {
 		return err
 	}
 
 	return nil
 }
 
-func (s *subscriber) read(ctx context.Context) (*msg.Envelope, error) {
+func (s *subscriber) read(ctx context.Context) ([]byte, error) {
 	_, bs, err := s.conn.Read(ctx)
 	if err != nil {
 		return nil, err
 	}
 
-	return &msg.Envelope{Typ: msg.TEXT, Payload: bs}, nil
+	return bs, nil
 }
