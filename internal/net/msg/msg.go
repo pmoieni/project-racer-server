@@ -12,10 +12,8 @@ type (
 
 	Envelope struct {
 		// Message identifier
-		ID  uuid.UUID `json:"id"`
-		Typ MsgType   `json:"type"`
+		Typ MsgType `json:"type"`
 		// client identifier
-		UserID uuid.UUID `json:"userId"`
 		// Actual message data.
 		Payload json.RawMessage `json:"payload"`
 	}

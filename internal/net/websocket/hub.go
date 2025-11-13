@@ -22,6 +22,8 @@ func NewHub() *Hub {
 		subscribers: make(map[*subscriber]struct{}),
 	}
 
+	log.Println(len(h.subscribers))
+
 	go h.listen()
 
 	return h
@@ -50,7 +52,7 @@ func (h *Hub) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	sub := &subscriber{conn: c}
+	sub := newSubscriber(c)
 
 	defer func() {
 		if err := h.deleteSubscriber(sub); err != nil {
@@ -70,7 +72,14 @@ func (h *Hub) addSubscriber(ctx context.Context, s *subscriber) error {
 		return nil
 	}
 
-	go s.write(ctx, h.tasks)
+	go func() {
+		for msg := range s.send {
+			if err := s.write(ctx, msg); err != nil {
+				h.tasks <- func() error { return err }
+				return
+			}
+		}
+	}()
 
 	for {
 		msg, err := s.read(ctx)

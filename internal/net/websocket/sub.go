@@ -2,7 +2,6 @@ package websocket
 
 import (
 	"context"
-	"encoding/json"
 
 	"github.com/coder/websocket"
 	"github.com/pmoieni/project-racer-server/internal/net/msg"
@@ -13,22 +12,17 @@ type subscriber struct {
 	send chan *msg.Envelope
 }
 
-func (s *subscriber) write(ctx context.Context, tasks chan func() error) {
-	// TODO: don't use JSON
-	for msg := range s.send {
-		bs, err := json.Marshal(msg)
-		if err != nil {
-			tasks <- func() error {
-				return err
-			}
-		}
+func newSubscriber(conn *websocket.Conn) *subscriber {
+	return &subscriber{conn: conn, send: make(chan *msg.Envelope)}
+}
 
-		if err := s.conn.Write(ctx, websocket.MessageBinary, bs); err != nil {
-			tasks <- func() error {
-				return s.conn.Close(websocket.StatusGoingAway, "")
-			}
-		}
+func (s *subscriber) write(ctx context.Context, msg *msg.Envelope) error {
+	// TODO: don't use JSON
+	if err := s.conn.Write(ctx, websocket.MessageBinary, msg.Payload); err != nil {
+		return err
 	}
+
+	return nil
 }
 
 func (s *subscriber) read(ctx context.Context) (*msg.Envelope, error) {
@@ -37,10 +31,5 @@ func (s *subscriber) read(ctx context.Context) (*msg.Envelope, error) {
 		return nil, err
 	}
 
-	var msg *msg.Envelope
-	if err := json.Unmarshal(bs, msg); err != nil {
-		return nil, err
-	}
-
-	return msg, nil
+	return &msg.Envelope{Typ: msg.TEXT, Payload: bs}, nil
 }
