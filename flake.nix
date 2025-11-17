@@ -41,10 +41,17 @@
                 initialDatabases = [
                   {
                     name = dbName;
-                    user = dbName;
-                    pass = dbName;
                   }
                 ];
+                listen_addresses = "127.0.0.1";
+                port = 5432;
+                settings = {
+                  log_connections = true;
+                  log_statement = "all";
+                  logging_collector = true;
+                  log_disconnections = true;
+                  log_destination = lib.mkForce "syslog";
+                };
               };
 
               settings.processes.pgweb =
