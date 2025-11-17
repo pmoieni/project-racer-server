@@ -92,13 +92,13 @@ func (h *Hub) addSubscriber(ctx context.Context, s *subscriber) error {
 }
 
 func (h *Hub) deleteSubscriber(s *subscriber) error {
-	if err := s.conn.Close(websocket.StatusNormalClosure, ""); err != nil {
-		return err
-	}
-
 	h.tasks <- func() error {
 		delete(h.subscribers, s)
 		return nil
+	}
+
+	if err := s.conn.Close(websocket.StatusNormalClosure, ""); err != nil {
+		return err
 	}
 
 	return nil

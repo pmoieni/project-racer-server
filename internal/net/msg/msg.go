@@ -13,9 +13,11 @@ const (
 
 	V1 Version = 0x1
 
-	msgTypeMask = 0xFE
+	msgTypeMask = 0xFC
 
-	TEXT MsgType = 0x1
+	Binary MsgType = 0x1
+	TEXT   MsgType = 0x2
+	JSON   MsgType = 0x3
 )
 
 type Envelope struct {
